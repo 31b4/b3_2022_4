@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(68, 68, 68);
+    color: white;
+    text-align: center;
+}
+
+#keres{
+    width: 310px;
+}
+
+#eredmeny{
+    padding-top: 10px;
+}

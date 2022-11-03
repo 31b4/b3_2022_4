@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(68, 68, 68);
+    color: white;
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+#balra {
+    float: left;
+}
+
+#jobbra {
+    float: right;
+}
+
+input {
+    margin: 20px;
+}
+
+#keret {
+    margin-top: 80px;
+}
